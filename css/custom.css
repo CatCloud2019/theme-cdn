@@ -1,4 +1,4 @@
-body,button,h1,h2,h3,h4,h5,h6,input,select,textarea{font-family:"\5FAE\8F6F\96C5\9ED1","Microsoft Yahei","Hiragino Sans GB",tahoma,arial,"\5B8B\4F53",sans-serif;line-height:1.5}
+body,button,h1,h2,h3,h4,h5,h6,input,select,textarea{font-family:-apple-system,BlinkMacSystemFont,PingFang SC,Hiragino Sans GB,Microsoft YaHei,helvetica neue,helvetica,ubuntu,roboto,noto,segoe ui,Arial,sans-serif;line-height:1.5}
 a:focus{text-decoration:none}
 .btn-group-vertical>.btn-group:after,.btn-group-vertical>.btn-group:before,.btn-toolbar:after,.btn-toolbar:before,.clearfix:after,.clearfix:before,.container-fluid:after,.container-fluid:before,.container:after,.container:before,.dl-horizontal dd:after,.dl-horizontal dd:before,.form-horizontal .form-group:after,.form-horizontal .form-group:before,.modal-footer:after,.modal-footer:before,.modal-header:after,.modal-header:before,.nav:after,.nav:before,.navbar-collapse:after,.navbar-collapse:before,.navbar-header:after,.navbar-header:before,.navbar:after,.navbar:before,.pager:after,.pager:before,.panel-body:after,.panel-body:before,.row:after,.row:before{display:inherit;content:" "}
 .intl-tel-input .country-list,.intl-tel-input .flag-container{z-index:5}
@@ -133,7 +133,7 @@ to{transform:rotate(359deg)}
 .card-row>.cell-title{display:block;margin-bottom:10px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
 .card-row>.cell-progress{position:absolute;top:16px;right:24px;font-weight:700}
 .card-row>.cell-cycle,.card-row>.cell-date,.card-row>.cell-status{float:left;font-size:12px}
-.card-row>.cell-status .c-badge{padding:0 5px;border-radius:3px;font-weight:400}
+.card-row>.cell-status .c-badge{padding:0 15px;border-radius:3px;font-weight:400}
 .c-badge--small{padding:2px 12px;margin:0 auto;display:block;text-align:center}
 .card-row>.cell-date,.card-row>.cell-license{float:right;font-size:.85rem}
 .card-row>.cell-total{position:absolute;right:24px;top:50%;height:16px;width:50%;margin-top:-8px;text-align:right}
@@ -154,6 +154,8 @@ to{transform:rotate(359deg)}
 .cards-nav .btn:active,.cards-nav .btn:focus,.cards-nav .btn:hover{outline:0;color:#354052;border:0 none;border-radius:3px;background-color:#f5f5f5}
 .cards-nav .btn>i{font-size:19px}
 .card-number{display:inline-block;margin:10px auto;font-size:13px}
+.card-number .number-current{padding: 0 10px;font-weight: 600;}
+.card-number .number-total{padding: 0 5px;}
 .panel-cards .card-row>.cell-title{font-weight:600;font-size:1rem;color:#7f8fa4}
 .lSSlideWrapper{max-width:100%;height:100%;overflow:hidden;position:relative}
 .lSSlideWrapper>.lightSlider:after{clear:both}
