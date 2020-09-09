@@ -14,12 +14,12 @@ $(window).load(function() {
 
         $('body').vegas({
             slides: [
-                { src: './img/slide-1.jpg' },
-                { src: './img/slide-2.jpg' },
-                { src: './img/slide-3.jpg' },
-				{ src: './img/slide-4.jpg' },
-				{ src: './img/slide-5.jpg' },
-				{ src: './img/slide-6.jpg' },
+                { src: 'https://cdn.jsdelivr.net/gh/catcloud2019/theme-cdn/templates/in_v2/img/slide-1.jpg' },
+                { src: 'https://cdn.jsdelivr.net/gh/catcloud2019/theme-cdn/templates/in_v2/img/slide-2.jpg' },
+                { src: 'https://cdn.jsdelivr.net/gh/catcloud2019/theme-cdn/templates/in_v2/img/slide-3.jpg' },
+				{ src: 'https://cdn.jsdelivr.net/gh/catcloud2019/theme-cdn/templates/in_v2/img/slide-4.jpg' },
+				{ src: 'https://cdn.jsdelivr.net/gh/catcloud2019/theme-cdn/templates/in_v2/img/slide-5.jpg' },
+				{ src: 'https://cdn.jsdelivr.net/gh/catcloud2019/theme-cdn/templates/in_v2/img/slide-6.jpg' },
             ],
 
             // Delay beetween slides in milliseconds.
