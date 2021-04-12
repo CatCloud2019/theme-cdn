@@ -1,0 +1,40 @@
+/**
+ * CatCloud WHMCS DIY CSS
+ *
+ * This file is an exclusive custom style
+ *
+ * @author    CatCloud Design
+ * @copyright Copyright (c) CatCloud Limited 2021
+ * @license   Https://CATCLOUD.WIN
+ */
+.cat-dark{background: #161a33;}
+.back-dark{background: #161a33;}
+.back-dark .c-navbar{background: #161a33;}
+.back-dark .c-navbar .c-breadcrumb a{color:#bfbfbf}
+.back-dark .c-navbar .c-breadcrumb__item.is-active{color:#68c740;font-weight:bold;}
+.back-dark .home-tips .alert a{padding:0 10px;color:#0014ff;}
+.back-dark .c-overview-card{border:0;}
+.back-dark .client-home-panels h5{color:#b7c0cd;padding: 10px;}
+.back-dark .client-home-panels .cards,.back-dark .client-home-panels .cards-nav{background: #1c233d;}
+.back-dark .client-home-panels .c-card {border-radius:0;min-height: 270px;border:0;background-color: #1c233d;}
+.back-dark .client-home-panels .card-row{border-bottom: 1px solid rgb(22 26 51 / 78%);}
+.back-dark .client-home-panels .cards{min-height: 270px;}
+.back-dark .client-home-panels .card-row>.cell-title{font-weight: bold;font-size:1.15rem;}
+.back-dark .client-home-panels .card-row>.cell-cycle{font-size:14px;}
+.back-dark .client-home-panels .card-number{color:#eee;}
+.back-dark .client-home-panels .cards-nav{border-top: 1px solid #161a33;}
+.back-dark .client-home-panels .dahan .card-row>.cell-title{color:#ed1c24;}
+.back-dark .client-home-panels .invoices .card-row>.cell-title{color:#fd9a18;}
+.nvbk-dark{background: #1c233d;}
+.nvbk-dark .c-sidebar__link.is-active {background-color: #161a33;}
+.nvbk-dark .c-sidebar__item.is-open {background-color: #161a33;}
+.cat-dark .c-chat__body .o-media__img{margin-right:1.15rem;}
+.cat-dark .c-chat__message-content p{font-size:0.95rem;margin: 0 0 10px 0;line-height: 30px;}
+.cat-dark .c-chat__body .staff .c-chat__message-content{font-weight: bold;}
+.cat-dark .c-chat__body .note{display: block;}
+.cat-dark .annouview h2{font-weight: 600;font-size:1.35rem;margin-top: 40px;margin-bottom: 26px;line-height: 140%;}
+.cat-dark .annouview h3{font-weight: 600;font-size:1.25rem;margin-top: 40px;margin-bottom: 26px;line-height: 140%;}
+.cat-dark .annouview h4{font-weight: 600;font-size:1.20rem;margin-top: 20px;margin-bottom: 20px;line-height: 130%;}
+.cat-dark .annouview h4{font-weight: 600;font-size:1.15rem;margin-top: 15px;margin-bottom: 15px;line-height: 120%;}
+.cat-dark .annouview p{font-size:1rem;}
+.cat-dark .annouview a{font-weight: bold}
