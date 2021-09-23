@@ -38,3 +38,9 @@
 .cat-dark .annouview h4{font-weight: 600;font-size:1.15rem;margin-top: 15px;margin-bottom: 15px;line-height: 120%;}
 .cat-dark .annouview p{font-size:1rem;}
 .cat-dark .annouview a{font-weight: bold}
+/* addfunds */
+.page-content .form-group .control-label{padding-bottom: 10px;font-size: 1.1rem;}
+/* name */
+.pr-tt{display: block;}
+.pr-name{font-size:1.1rem;font-weight: 600;}
+.pr-tt i{padding-left: 5px;}
