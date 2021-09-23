@@ -240,7 +240,7 @@ to{bottom:0}
 .lSSlideOuter.lSrtl .rightEnd{-webkit-animation:leftEnd .3s;animation:leftEnd .3s;position:relative}
 .lSSlideOuter.lSrtl .leftEnd{-webkit-animation:rightEnd .3s;animation:rightEnd .3s;position:relative}
 .lightSlider.lsGrabbing>*{cursor:move;cursor:-webkit-grabbing;cursor:-o-grabbing;cursor:-ms-grabbing;cursor:grabbing}
-.form-control{display:block;width:100%;height:auto;margin:0;padding:.59375rem .9375rem;-webkit-transition:all .3s;transition:all .3s;border:1px solid #dfe3e9;border-radius:4px;color:#354052;font-size:.875rem;font-weight:400;resize:none;box-shadow:none}
+.form-control{display:block;width:100%;height:auto;margin:0;padding:.59375rem .9375rem;-webkit-transition:all .3s;transition:all .3s;border:1px solid #dfe3e9;border-radius:4px;color:#354052;font-size:1rem;font-weight:600;resize:none;box-shadow:none}
 .form-control::-webkit-input-placeholder{-webkit-transition:opacity .3s;transition:opacity .3s;color:rgba(53,64,82,.5);font-weight:400;opacity:.5}
 .form-control:-ms-input-placeholder{-webkit-transition:opacity .3s;transition:opacity .3s;color:rgba(53,64,82,.5);font-weight:400;opacity:.5}
 .form-control::-ms-input-placeholder{-webkit-transition:opacity .3s;transition:opacity .3s;color:rgba(53,64,82,.5);font-weight:400;opacity:.5}
@@ -270,9 +270,9 @@ textarea.form-control{min-height:90px;font-size:.875rem;font-weight:400}
 .btn-danger{background:#f95359;background:-webkit-gradient(linear,left top,left bottom,from(#f95359),to(#d35847));background:linear-gradient(to bottom,#f95359,#d35847);border-color:#d35847}
 .btn-danger:hover{background:#f83f46;background:-webkit-gradient(linear,left top,left bottom,from(#f83f46),to(#cf4937));background:linear-gradient(to bottom,#f83f46,#cf4937)}
 .btn-danger:focus{background:#f8353c;background:-webkit-gradient(linear,left top,left bottom,from(#f8353c),to(#cb4331));background:linear-gradient(to bottom,#f8353c,#cb4331)}
-.addmoeny{display:block;padding:15px;text-decoration:none;font-size:18px;font-weight:500;text-align:center;margin-bottom:30px;cursor:pointer;border-radius:4px;color:#555;border:1px #dfe3e9 solid}
-.addmoeny:hover{color:#32a1f3;text-decoration:none}
-.pay_method a{position:relative;display:block;padding:16px;border:1px solid #d7dbe0;border-radius:3px;text-align:center}
+.addmoeny{display:block;padding:15px;text-decoration:none;font-size:18px;font-weight:500;text-align:center;margin-bottom:30px;cursor:pointer;border-radius:4px;color:#555;border:2px #dfe3e9 solid}
+.addmoeny:hover{color:#32a1f3;text-decoration:none;border: 2px solid #00a8ff;}
+.pay_method a{position:relative;display:block;padding:16px;border:2px solid #d7dbe0;border-radius:3px;text-align:center}
 .pay_method a:hover{color:#888}
 .pay_method a .icon{text-align:center;height:50px;background-position:center center;background-size:100% 100%;background-repeat:no-repeat}
 .dataTable thead .sorting:before,.dataTable thead .sorting_asc:before,.dataTable thead .sorting_desc:before{display:none}
