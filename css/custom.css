@@ -274,7 +274,7 @@ textarea.form-control{min-height:90px;font-size:.875rem;font-weight:400}
 .addmoeny:hover{color:#32a1f3;text-decoration:none}
 .pay_method a{position:relative;display:block;padding:16px;border:1px solid #d7dbe0;border-radius:3px;text-align:center}
 .pay_method a:hover{color:#888}
-.pay_method a .icon{text-align:center;height:50px;background-position:center center;background-size:100%;background-repeat:no-repeat}
+.pay_method a .icon{text-align:center;height:50px;background-position:center center;background-size:100% 100%;background-repeat:no-repeat}
 .dataTable thead .sorting:before,.dataTable thead .sorting_asc:before,.dataTable thead .sorting_desc:before{display:none}
 .dataTables_paginate .paginate_button{display:inline;height:2.1875rem;padding:0;border:0 none;background-color:#fff;color:rgba(53,64,82,.5);font-size:inherit;font-weight:400;line-height:2.1875rem;text-align:center}
 .checkbox input[type=checkbox]{height:18px;width:18px;margin-top:1px}
