@@ -42,5 +42,5 @@
 .page-content .form-group .control-label{padding-bottom: 10px;font-size: 1.1rem;}
 /* name */
 .pr-tt{display: block;}
-.pr-name{font-size:1.1rem;font-weight: 600;}
+.pr-tt .pr-name{font-size:1.1rem;font-weight: 600;}
 .pr-tt i{padding-left: 5px;}
